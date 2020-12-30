@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1579175954 source:d:\cours_chloe\dut\1a\algo\jeu_nim_thil_zannier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"type.h"
+
+1579175954 d:\cours_chloe\dut\1a\algo\jeu_nim_thil_zannier\type.h
+
+1579175954 source:d:\cours_chloe\dut\1a\algo\jeu_nim_thil_zannier\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"type.h"
+
